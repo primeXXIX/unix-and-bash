@@ -1,0 +1,32 @@
+Exercises
+
+1. Write a command to print the string Use "man echo",
+including the quotes; i.e., take care not to print out
+Use man echo instead. Hint: Use double quotes in the inner
+string, and wrap the whole thing in single quotes.
+
+2. By running man sleep, figure out how to make the terminal
+“sleep” for 5 seconds, and execute the command to do so.
+
+3. Execute the command to sleep for 5000 seconds,
+realize that’s well over an hour, and then use the
+instructions from Box 4 to get out of trouble.
+
+Solutions
+
+1. $ man echo
+
+2. $ sleep 5s or $ sleep 5
+
+3. $ sleep 5000 --> Ctrl + C
+
+
+
+
+Notes:
+
+(sleep 1800; sh command_file >& errors)&
+
+     This incantation would wait a half hour before running
+     the script command_file.
+     (See the at(1) utility.)
