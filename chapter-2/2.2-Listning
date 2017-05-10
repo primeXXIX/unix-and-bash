@@ -1,0 +1,21 @@
+1. What’s the command to list all the non-hidden files and
+directories that start with the letter “s”?
+
+2. What is the command to list all the non-hidden files that
+contain the string “onnet”, long-form by reverse modification
+time?
+
+Hint: Use the wildcard operator at both the
+beginning and the end.
+
+3. What is the command to list all files
+(including hidden ones) by reverse modification time,
+in long form?
+
+Solutions
+
+1. $ ls * s
+
+2. $ ls onnet *
+
+3. $ ls -a -rtl

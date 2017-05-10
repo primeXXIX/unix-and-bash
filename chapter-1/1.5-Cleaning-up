@@ -1,0 +1,11 @@
+Exercises
+
+1. Clear the contents of the current tab.
+
+2. Open a new tab, execute echo ’hello’, and then exit.
+
+Solutions
+
+1. $ clear
+
+2. Ctrl + T --> $ echo 'hello' --> $ exit

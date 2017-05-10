@@ -1,0 +1,23 @@
+Exercises
+
+1. Write a command that prints out the string “hello, world”.
+Extra credit: As in Listing 1, do it two different ways,
+both with and without using quotation marks.
+
+2. Type the command echo ’hello (with a mismatched single quote),
+and then get out of trouble using the technique from Box 4.
+
+Solutions
+
+1.
+
+$ echo "hello, world"
+$ echo hello, world
+
+2. $ echo 'hello
+
+//terminal hangs
+
+Ctrl + C
+
+//terminal restarts
