@@ -8,7 +8,7 @@ Enter/Return	↵
 Tab	⇥
 Delete	⌫
 
-Exercises
+Exercises:
 
 1. Using the up arrow, print to the screen the strings
 “fee”, “fie”, “foe”, and “fum” without retyping echo
@@ -30,7 +30,7 @@ tutorial or Google for it and copy it from the Internet.
 I suggest applying the ideas in Box 5 to figure out how to
 do it on your system.)
 
-Solutions
+Solutions:
 
 1. echo "fee fie foe fum", Use the ↑ arrow
 

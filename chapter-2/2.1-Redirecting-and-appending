@@ -1,4 +1,4 @@
-Exercise
+Exercises:
 
 1. Using echo and >, make files called line_1.txt and line_2.txt
 containing the first and second lines of Sonnet 1, respectively.
@@ -18,7 +18,7 @@ yielding the file sonnet_1_reversed.txt.
 
 Hint: The cat command can take multiple arguments.
 
-Solution
+Solutions:
 
 1. $ echo "From the fairest creatures we desire increase," > sonnet_1.txt
    $ echo "That thereby beauty's rose might never die," > sonnet_1.txt

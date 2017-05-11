@@ -1,4 +1,4 @@
-Exercises
+Exercises:
 
 1. Use the echo command and the redirect
 operator > to make a file called foo.txt
@@ -20,7 +20,7 @@ cat can take multiple arguments.
 4. How do rm nonexistent and rm -f nonexistent
 differ for a nonexistent file?
 
-Solutions
+Solutions:
 
 1.  $ echo "hello, world" > foo.txt
     $ cp foo.txt bar.txt

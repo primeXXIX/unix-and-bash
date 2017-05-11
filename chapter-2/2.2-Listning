@@ -1,3 +1,5 @@
+Exercises:
+
 1. What’s the command to list all the non-hidden files and
 directories that start with the letter “s”?
 
@@ -12,7 +14,7 @@ beginning and the end.
 (including hidden ones) by reverse modification time,
 in long form?
 
-Solutions
+Solutions:
 
 1. $ ls * s
 
