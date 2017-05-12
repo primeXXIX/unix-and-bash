@@ -39,4 +39,4 @@ Solutions:
    by a newline (`\n') character, to the standard output.
 
 
-2. echo -n "hello"
+2. printf "hello\nworld\n"
