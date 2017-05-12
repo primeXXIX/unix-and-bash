@@ -1,4 +1,4 @@
-Exercises
+Exercises:
 
 1. According to the man page,
 what are the official short and
@@ -30,7 +30,7 @@ In this case, I recommend installing iTerm
 (which isn’t a bad idea anyway)
 .)
 
-Solutions
+Solutions:
 
 1. short: echo -- write arguments to the standard output
 
@@ -39,4 +39,4 @@ Solutions
    by a newline (`\n') character, to the standard output.
 
 
-2. echo -n "hello"
+2. printf "hello\nworld\n"

@@ -1,3 +1,5 @@
+Exercises:
+
 1. By copying and pasting the text from the HTML
 version of Figure 17, use echo to make a file
 called sonnet_1_complete.txt containing the full
@@ -27,6 +29,8 @@ Hint: If those are the only two files in the
 current directory that start with the letter “b”,
 you can use the wildcard pattern from the previous
 exercise.
+
+Solutions:
 
 1. chapter-2/sonnet_1_complete.txt
 
